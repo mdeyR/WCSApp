@@ -1,0 +1,11 @@
+{
+  "userID": 1004,
+  "appointmentList": [
+    {
+      "id": 9003,
+      "attendedBy": "ABC1001",
+      "date": "03/04/2019",
+      "location": "Den Hague"
+    }
+  ]
+}

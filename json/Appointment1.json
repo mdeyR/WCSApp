@@ -1,0 +1,23 @@
+{
+  "userID": 1001,
+  "appointmentList": [
+    {
+      "id": 9001,
+      "attendedBy": "ABC1002",
+      "date": "01/04/2019",
+      "location": "Rotterdam"
+    },
+    {
+      "id": 9002,
+      "attendedBy": "ABC1003",
+      "date": "02/04/2019",
+      "location": "Amsterdam"
+    },
+    {
+      "id": 9003,
+      "attendedBy": "ABC1004",
+      "date": "03/04/2019",
+      "location": "Den Hague"
+    }
+  ]
+}
